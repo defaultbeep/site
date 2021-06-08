@@ -5,10 +5,10 @@ export default function Clients() {
         <div>
           Your clients
           <ul>
-            <li><Link href="/clients/a"><a>Client a</a></Link></li>
-            <li><Link href="/clients/b"><a>Client b</a></Link></li>
-            <li><a href="/clients/b"><a>Client b</a></a></li>
+            <li><Link href="/a"><a>Client a</a></Link></li>
+            <li><Link href="/b"><a>Client b</a></Link></li>
           </ul>
+          <p><a href="/">home</a></p>
         </div>
     );
 }
