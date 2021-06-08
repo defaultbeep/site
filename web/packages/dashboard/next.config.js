@@ -9,7 +9,7 @@ module.exports = {
       },
       {
         source: '/clients',
-        destination: `${CLIENTS_APP_URL}/clients`,
+        destination: `https://google.com`,
       },
       {
         source: '/clients/:path*',
