@@ -7,6 +7,7 @@ export default function Clients() {
           <ul>
             <li><Link href="/clients/a"><a>Client a</a></Link></li>
             <li><Link href="/clients/b"><a>Client b</a></Link></li>
+            <li><a href="/clients/b"><a>Client b</a></a></li>
           </ul>
         </div>
     );
